@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTLzTYNQRdK0Rky0mhEXlBCoBMISAOyOTJNRXF1aR8o2QVUpvTUl5tEzDioML4HsnIi73SW5O61hBzXwJO3PPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pleite\\Desktop\\Pedro\\RabbitMQ Projects\\RabbitMQ-Ack-Nack-AutoAck-C#-.Net-Core\\RProducer\\RProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pleite\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\pleite\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pleite\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
